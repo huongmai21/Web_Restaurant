@@ -1,0 +1,1 @@
+// Hàm gọi API chung

@@ -1,0 +1,1 @@
+- Sử dụng thư viện sweetalert2 để hiển thị thông báo đẹp mắt khi thêm, sửa, hoặc xóa món ăn thành công.
